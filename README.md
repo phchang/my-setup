@@ -15,6 +15,16 @@ Disable Quick Look animation.
 defaults write -g QLPanelAnimationDuration -float 0
 ```
 
+## Command Line
+
+### pbcopy & pbpaste
+Built-in to macOS, `pbcopy` and `pbpaste` allow copy and pasting to and from the pasteboard from the command line.
+
+Copying your public key to the pasteboard:
+```
+cat ~/.ssh/github.pub | pbcopy
+```
+
 ## Utilities
 * [Alfred](https://manytricks.com/moom/) (~$27) — app launcher + more
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) — informative git prompt for bash
