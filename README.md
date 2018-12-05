@@ -15,6 +15,11 @@ Disable Quick Look animation.
 defaults write -g QLPanelAnimationDuration -float 0
 ```
 
+Enable repeating keys.
+```
+defaults write -g ApplePressAndHoldEnabled -bool false
+```
+
 ## Command Line
 
 ### pbcopy & pbpaste
