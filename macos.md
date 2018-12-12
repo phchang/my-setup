@@ -1,5 +1,3 @@
-d# macOS
-
 ## Browser
 ### Bookmarketls
 * [Kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/) — [dickbar](https://daringfireball.net/linked/2017/06/27/mcdiarmid-sticky-headers) (AKA fixed position HTML elements) remover.
