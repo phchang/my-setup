@@ -103,13 +103,15 @@ end regularmessage
 * [tree](http://mama.indstate.edu/users/ice/tree/) — directory listing program for the command line (available via Homebrew also)
 
 ## Uncategorized
-* [Day One Journal](https://dayoneapp.com)
-* [Fluid](https://www.fluidapp.com) ($5) — turn a website into a Mac app
-* [iA Writer](https://ia.net/writer) ($5) — minimalist text editor
-* [KeyCastr](https://github.com/keycastr/keycastr) - keystroke visualizer, good for demos
-* [PyCharm](https://www.jetbrains.com/pycharm/) ($90/year)
-* [RescueTime](https://www.rescuetime.com)
-* [Reveal](https://revealapp.com) ($60)
-* [Scapple](https://www.literatureandlatte.com/scapple/overview) ($15)
-* [Simplenote](https://simplenote.com)
-* [Things](https://culturedcode.com/things/) ($50)
+| App | Cost | Description |
+| :-- | --: | :-- |
+| [Day One Journal](https://dayoneapp.com) | | |
+| [Fluid](https://www.fluidapp.com) | $5 | turn a website into a Mac app |
+| [iA Writer](https://ia.net/writer) | $5 | minimalist text editor |
+| [KeyCastr](https://github.com/keycastr/keycastr) | | keystroke visualizer, good for demos|
+| [PyCharm](https://www.jetbrains.com/pycharm/) | $90/year | |
+| [RescueTime](https://www.rescuetime.com) | |
+| [Reveal](https://revealapp.com) | $60 | |
+| [Scapple](https://www.literatureandlatte.com/scapple/overview) | $15 | |
+| [Simplenote](https://simplenote.com) | |
+| [Things](https://culturedcode.com/things/) | $50 | |
