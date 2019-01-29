@@ -7,6 +7,7 @@ Disable the delay when displaying a hidden dock.
 ```
 defaults write com.apple.Dock autohide-delay -float 0
 ```
+![Dock Autohide Delay Set to 0](img/defaults-write-autohide-delay.gif)
 
 Disable Quick Look animation.
 ```
