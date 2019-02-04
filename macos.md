@@ -90,6 +90,11 @@ end regularmessage
 ```
 3. I've assigned this shortcut to Cmd+Option+Shift+L.
 
+## System Preferences
+### Accessibility
+#### Zoom
+- [x] Use scroll gesture with modifier keys to zoom: ^Control
+
 ## Utilities
 ### Audio
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijackpro/) ($59) — record audio from any source on the Mac
