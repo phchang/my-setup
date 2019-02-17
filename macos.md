@@ -1,6 +1,7 @@
 ## Browser
 ### Bookmarklets
 * [Kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/) — [dickbar](https://daringfireball.net/linked/2017/06/27/mcdiarmid-sticky-headers) (AKA fixed position HTML elements) remover.
+* [Pinboard](https://pinboard.in/tour/) — bookmarking
 
 ## defaults write
 Disable the delay when displaying a hidden dock.
@@ -14,7 +15,7 @@ Disable Quick Look animation.
 defaults write -g QLPanelAnimationDuration -float 0
 ```
 
-Enable repeating keys.
+Enable repeating keys. Essential if you want to use Vim plugins for various applications.
 ```
 defaults write -g ApplePressAndHoldEnabled -bool false
 ```
