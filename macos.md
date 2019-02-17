@@ -3,6 +3,10 @@
 * [Kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/) — [dickbar](https://daringfireball.net/linked/2017/06/27/mcdiarmid-sticky-headers) (AKA fixed position HTML elements) remover.
 * [Pinboard](https://pinboard.in/tour/) — bookmarking
 
+### Extensions
+* [Distraction Blocker for YouTube](https://safari-extensions.apple.com/details/?id=com.robertjeffs.distractionblockerforyoutube-W9AT75TA27)
+![YouTube Homepage with Distraction Blocker for YouTube](img/youtube-distraction-blocker.png)
+
 ## defaults write
 Disable the delay when displaying a hidden dock.
 ```
