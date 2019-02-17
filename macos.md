@@ -5,7 +5,7 @@
 
 ### Extensions
 * [Distraction Blocker for YouTube](https://safari-extensions.apple.com/details/?id=com.robertjeffs.distractionblockerforyoutube-W9AT75TA27)
-![YouTube Homepage with Distraction Blocker for YouTube](img/youtube-distraction-blocker.png width=100)
+![YouTube Homepage with Distraction Blocker for YouTube](img/youtube-distraction-blocker.png)
 
 ## defaults write
 Disable the delay when displaying a hidden dock.
