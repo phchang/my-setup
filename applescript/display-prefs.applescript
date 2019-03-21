@@ -8,7 +8,7 @@ tell application "System Events"
 	delay 0.4
 	keystroke "systempropertiesperformance.exe"
 	keystroke return
-	delay 0.4github.com/mitchellh/mapstructure
+	delay 0.4
 	keystroke "p" -- clear out selections
 	delay 0.2
 	key code 48 -- tab
@@ -33,4 +33,3 @@ tell application "System Events"
 	key code 48 -- tab to "OK"
 	key code 49 -- spacebar
 end tell
-
