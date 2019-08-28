@@ -97,6 +97,13 @@ end regularmessage
 3. I've assigned this shortcut to Cmd+Option+Shift+L.
 
 ## System Preferences
+### Keyboard
+### Modifier Keys
+- Caps Lock Key: Escape
+
+### Trackpad
+- Click: Firm
+- Tracking speed: +--+--+--+--+--+--x--+--+--+
 ### Accessibility
 #### Zoom
 - [x] Use scroll gesture with modifier keys to zoom: ^Control
