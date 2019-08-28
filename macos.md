@@ -98,12 +98,17 @@ end regularmessage
 
 ## System Preferences
 ### Keyboard
-### Modifier Keys
-- Caps Lock Key: Escape
+- Keyboard
+  - Modifier Keys
+    - Caps Lock Key: Escape
+    
+- Shortcuts
+  - Full Keyboard Access: All Controls
 
 ### Trackpad
 - Click: Firm
 - Tracking speed: +--+--+--+--+--+--x--+--+--+
+
 ### Accessibility
 #### Zoom
 - [x] Use scroll gesture with modifier keys to zoom: ^Control
