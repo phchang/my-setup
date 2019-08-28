@@ -101,6 +101,11 @@ end regularmessage
 - Keyboard
   - Modifier Keys
     - Caps Lock Key: Escape
+
+- Text
+  - [ ] Correct spelling automatically
+  - [ ] Capitalize words automatically
+  - [ ] Add period with double-space
     
 - Shortcuts
   - Full Keyboard Access: All Controls
