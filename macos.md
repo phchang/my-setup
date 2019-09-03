@@ -35,6 +35,9 @@ Example: copying your public key to the pasteboard:
 cat ~/.ssh/github.pub | pbcopy
 ```
 
+## Fonts
+* [Input](https://input.fontbureau.com/download/)
+
 ## Mail App
 
 ### "Load remote content" keyboard shortcut
