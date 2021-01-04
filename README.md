@@ -1,4 +1,4 @@
 # My Setup
 
-* [macOS](./macos.md)
-* [windows](./windows.md)
+* [macOS](./macos/README.md)
+* [windows](./windows/README.md)
