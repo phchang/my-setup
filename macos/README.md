@@ -6,14 +6,14 @@
 ### Extensions
 * [Distraction Blocker for YouTube](https://safari-extensions.apple.com/details/?id=com.robertjeffs.distractionblockerforyoutube-W9AT75TA27)
 
-![YouTube Homepage with Distraction Blocker for YouTube](img/youtube-distraction-blocker.png)
+![YouTube Homepage with Distraction Blocker for YouTube](../img/youtube-distraction-blocker.png)
 
 ## defaults write
 Disable the delay when displaying a hidden dock.
 ```
 defaults write com.apple.Dock autohide-delay -float 0
 ```
-![Dock Autohide Delay Set to 0](img/defaults-write-autohide-delay.gif)
+![Dock Autohide Delay Set to 0](../img/defaults-write-autohide-delay.gif)
 
 Disable Quick Look animation.
 ```
