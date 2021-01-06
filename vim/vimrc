@@ -85,7 +85,7 @@ if !exists(":DiffOrig")
 		  \ | wincmd p | diffthis
 endif
 
-" Paul's custom settings
+"""
 let s:VIMROOT = $HOME."/.vim"
 
 set ts=2
