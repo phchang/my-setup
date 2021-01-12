@@ -1,12 +1,12 @@
-## Browser
+## Safari
 ### Bookmarklets
 * [Kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/) — [dickbar](https://daringfireball.net/linked/2017/06/27/mcdiarmid-sticky-headers) (AKA fixed position HTML elements) remover.
 * [Pinboard](https://pinboard.in/tour/) — bookmarking
 
 ### Extensions
-* [Distraction Blocker for YouTube](https://safari-extensions.apple.com/details/?id=com.robertjeffs.distractionblockerforyoutube-W9AT75TA27)
+* ["No Distractions" for YouTube](https://apps.apple.com/gb/app/no-distractions-for-youtube/id1482507016?mt=12)
 
-![YouTube Homepage with Distraction Blocker for YouTube](../img/youtube-distraction-blocker.png)
+![YouTube Homepage with "No Distractions" for YouTube](../img/youtube-distraction-blocker.png)
 
 ## defaults write
 Disable the delay when displaying a hidden dock.
@@ -134,7 +134,7 @@ end regularmessage
 * [Moom](https://manytricks.com/moom/) ($10) — window moving & zooming
 * [tree](http://mama.indstate.edu/users/ice/tree/) — directory listing program for the command line (available via Homebrew also)
 
-## Uncategorized
+## Apps
 | App | Cost | Description |
 | :-- | --: | :-- |
 | [Day One Journal](https://dayoneapp.com) | | |
